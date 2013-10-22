@@ -1,4 +1,4 @@
 ISITMargie
 ==========
 
-My homwork folder
+My homework folder
